@@ -37,3 +37,73 @@ Challenges:
 Code:
 
 Wiring:
+
+## Intermediate Arduino
+These were the assignments that were split between before and after the ultrasonic robot project
+Assignments: LED Blink Revisited, Hello LCD, LCD Backpack, Photointerrupters, Potentiometers, Motor Control
+
+### LED Blink Revisited
+Function:
+
+What I learned:
+
+Challenges:
+
+Code:
+
+Wiring:
+
+### Hello LCD
+Function:
+
+What I learned:
+
+Challenges:
+
+Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/HelloLCD/HelloLCD.ino
+
+Wiring:
+
+### LCD Backpack
+Function:
+
+What I learned:
+
+Challenges:
+
+Code: https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/LCDBackpack/lcdbackpack.ino
+
+Wiring:
+
+### Photointerrupters
+Function:
+
+What I learned:
+
+Challenges:
+
+Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/PhotoInterrupters/Photointerrupters.ino
+
+Wiring:
+
+### Potentiometers
+Function:
+
+What I learned:
+
+Challenges:
+
+Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Potentiometers/Potentiometers.ino
+
+Wiring:
+
+### Motor Control
+Function:
+
+What I learned:
+
+Challenges:
+
+Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Motor%20Control/Motor%20Control.ino
+
+Wiring:
