@@ -3,6 +3,7 @@ All my Arduino engineering assignments
 
 ## Not So Basic Arduino
 These were the assignments I did at the beginning of the 2019-2020 school year, before the ultrasonic robot.
+
 Assignments: Hello Functions, New Ping
 
 ### Hello Functions
@@ -29,6 +30,7 @@ Wiring:
 
 ## Intermediate Arduino
 These were the assignments that were split between before and after the ultrasonic robot project
+
 Assignments: LED Blink Revisited, Hello LCD, LCD Backpack, Photointerrupters, Potentiometers, Motor Control
 
 ### LED Blink Revisited
