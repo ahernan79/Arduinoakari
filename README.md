@@ -3,7 +3,7 @@ All my Arduino engineering assignments
 
 ## Not So Basic Arduino
 These were the assignments I did at the beginning of the 2019-2020 school year, before the ultrasonic robot.
-Assignments: Hello Functions, Hello World, New Ping, WLED
+Assignments: Hello Functions, Hello World, New Ping, 
 
 ### Hello Functions
 Function: Uses returning value from an ultrasonic sensor to move a servo an amount based on distance returned by sensor. Prints distance to serial monitor.
@@ -16,23 +16,12 @@ Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/He
 
 Wiring:
 
-### Hello World
-Function: Printed "Hello World" to LCD screen.
+### New Ping
+Function: 
 
-What I learned: How to code and wire an LCD to a breadboard.
+What I learned: 
 
-Challenges: I struggled getting the wiring correct at first
-
-Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/helloworld/helloworld.ino
-
-Wiring:
-
-### WLED
-Function:
-
-What I learned:
-
-Challenges:
+Challenges: 
 
 Code:
 
@@ -43,13 +32,13 @@ These were the assignments that were split between before and after the ultrason
 Assignments: LED Blink Revisited, Hello LCD, LCD Backpack, Photointerrupters, Potentiometers, Motor Control
 
 ### LED Blink Revisited
-Function:
+Function: Made an LED fade in and out and printed a number of "x" to the serial monitor based on the brightness.
 
-What I learned:
+What I learned: This was one of my first Arduino assignments in this class so this was my reintroduction to Arduino after Engineering 1, so I re-learned a lot of coding.
 
-Challenges:
+Challenges: I struggled a lot getting the serial monitor component to work without a ton of code but some help from the teacher got me there.
 
-Code:
+Code: https://github.com/ahernan79/Arduinoakari/tree/master/NotSoBasicArduino/WLED
 
 Wiring:
 
@@ -58,7 +47,7 @@ Function: Printed "hello world" and the number of seconds since the program bega
 
 What I learned: How to wire and code an LCD screen, which was a new challenge.
 
-Challenges:I had some trouble getting the secondsprint correctly to the LCD screen, but replacing the LCD fixed it
+Challenges:I had some trouble getting the secondsprint correctly to the LCD screen, but replacing the LCD fixed it. My computer also had some errors downloading the library so I had to remove and reinstall it once or twice.
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/HelloLCD/HelloLCD.ino
 
