@@ -3,7 +3,7 @@ All my Arduino engineering assignments
 
 ## Not So Basic Arduino
 These were the assignments I did at the beginning of the 2019-2020 school year, before the ultrasonic robot.
-Assignments: Hello Functions, Hello World, New Ping, 
+Assignments: Hello Functions, New Ping
 
 ### Hello Functions
 Function: Uses returning value from an ultrasonic sensor to move a servo an amount based on distance returned by sensor. Prints distance to serial monitor.
