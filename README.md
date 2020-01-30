@@ -54,55 +54,55 @@ Code:
 Wiring:
 
 ### Hello LCD
-Function:
+Function: Printed "hello world" and the number of seconds since the program began to an LCD screen.
 
-What I learned:
+What I learned: How to wire and code an LCD screen, which was a new challenge.
 
-Challenges:
+Challenges:I had some trouble getting the secondsprint correctly to the LCD screen, but replacing the LCD fixed it
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/HelloLCD/HelloLCD.ino
 
 Wiring:
 
 ### LCD Backpack
-Function:
+Function: Made the LCD functional without a lot of wiring through a breadboard, printed number of times a button was pressed to the LCD screen, and used a switch to add and subtract to that number based on the position the switch was in when the button was pressed.
 
-What I learned:
+What I learned: I learned how to use the LiquidCrystal I2C commands.
 
-Challenges:
+Challenges: I had a lot of trouble with faulty wiring but some hard work going over everything eventually fixed it.
 
-Code: https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/LCDBackpack/lcdbackpack.ino
+Code: https://github.com/ahernan79/Arduinoakari/tree/master/IntermediateArduino/LCDBackpack
 
 Wiring:
 
 ### Photointerrupters
-Function:
+Function: Turned a LED off whenever something passed between the legs of a photointerrupter.
 
-What I learned:
+What I learned: How to work with the photointerrupter commands/functions.
 
-Challenges:
+Challenges: I had some trouble getting the attach interrupt functions right because I couldn't figure out how to use the functions.
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/PhotoInterrupters/Photointerrupters.ino
 
 Wiring:
 
 ### Potentiometers
-Function:
+Function: Changed brightness of an LED based on output from a potentiometer.
 
-What I learned:
+What I learned:I learned how to work with analog pins and commands.
 
-Challenges:
+Challenges: I struggled with using the map command to make the light get dimmer as the value went down instead of brighter but some trial and error eventually fixed it. I also had a weird issue with the LCD only showing one character on each line but it resolved itself.
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Potentiometers/Potentiometers.ino
 
 Wiring:
 
 ### Motor Control
-Function:
+Function: Turns on a motor and changes speed of which the motor moves based on output from a potentiometer.
 
-What I learned:
+What I learned: How to code a potentiometer to interact with a motor and how to wire a motor with diodes and all.
 
-Challenges:
+Challenges: The code was really simple because it was just a small change from the potentiometers assignments, but the wiring took me several class periods to recreate and I struggled making sure everything was connected correctly.
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Motor%20Control/Motor%20Control.ino
 
