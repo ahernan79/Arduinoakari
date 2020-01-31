@@ -18,13 +18,13 @@ Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/He
 Wiring:
 
 ### New Ping
-Function: 
+Function: Uses a HC-SR04 ultrasonic sensor to do something. For my assignment I printed distance from the sensor to the serial monitor every time a button was pressed.
 
-What I learned: 
+What I learned: I got some more practice using the ultrasonic sensor.
 
-Challenges: 
+Challenges: The code and wiring was pretty simple, this was a rather easy assignment and I didn't have much trouble.
 
-Code:
+Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/Newping/newping2.ino
 
 Wiring:
 
