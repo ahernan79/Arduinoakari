@@ -1,10 +1,10 @@
 # Arduinoakari
-All my Arduino engineering assignments
+All my Arduino engineering assignments.
 
 ## Not So Basic Arduino
 These were the assignments I did at the beginning of the 2019-2020 school year, before the ultrasonic robot.
 
-Assignments: Hello Functions, New Ping
+Assignments: Hello Functions and New Ping
 
 ### Hello Functions
 Function: Uses returning value from an ultrasonic sensor to move a servo an amount based on distance returned by sensor. Prints distance to serial monitor.
@@ -29,9 +29,9 @@ Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/Ne
 Wiring:
 
 ## Intermediate Arduino
-These were the assignments that were split between before and after the ultrasonic robot project
+These were the assignments that were split between before and after the ultrasonic robot project.
 
-Assignments: LED Blink Revisited, Hello LCD, LCD Backpack, Photointerrupters, Potentiometers, Motor Control
+Assignments: LED Blink Revisited, Hello LCD, LCD Backpack, Photointerrupters, Potentiometers, and Motor Control.
 
 ### LED Blink Revisited
 Function: Made an LED fade in and out and printed a number of "x" to the serial monitor based on the brightness.
