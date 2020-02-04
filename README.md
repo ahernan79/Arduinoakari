@@ -15,7 +15,7 @@ Challenges: I struggled with servo movement a little but fixing my math splittin
 
 Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/Hellofunctions/Hellofunctions.ino
 
-Wiring:
+Wiring: ![]()
 
 ### New Ping
 Function: Uses a HC-SR04 ultrasonic sensor to do something. For my assignment I printed distance from the sensor to the serial monitor every time a button was pressed.
@@ -26,7 +26,7 @@ Challenges: The code and wiring was pretty simple, this was a rather easy assign
 
 Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/Newping/newping2.ino
 
-Wiring:
+Wiring: ![]()
 
 ## Intermediate Arduino
 These were the assignments that were split between before and after the ultrasonic robot project.
@@ -53,7 +53,7 @@ Challenges:I had some trouble getting the secondsprint correctly to the LCD scre
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/HelloLCD/HelloLCD.ino
 
-Wiring:
+Wiring: ![]()
 
 ### LCD Backpack
 Function: Made the LCD functional without a lot of wiring through a breadboard, printed number of times a button was pressed to the LCD screen, and used a switch to add and subtract to that number based on the position the switch was in when the button was pressed.
@@ -64,7 +64,7 @@ Challenges: I had a lot of trouble with faulty wiring but some hard work going o
 
 Code: https://github.com/ahernan79/Arduinoakari/tree/master/IntermediateArduino/LCDBackpack
 
-Wiring:
+Wiring: ![]()
 
 ### Photointerrupters
 Function: Turned a LED off whenever something passed between the legs of a photointerrupter.
@@ -75,7 +75,7 @@ Challenges: I had some trouble getting the attach interrupt functions right beca
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/PhotoInterrupters/Photointerrupters.ino
 
-Wiring:
+Wiring: ![]()
 
 ### Potentiometers
 Function: Changed brightness of an LED based on output from a potentiometer.
@@ -86,7 +86,7 @@ Challenges: I struggled with using the map command to make the light get dimmer 
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Potentiometers/Potentiometers.ino
 
-Wiring:
+Wiring: ![]()
 
 ### Motor Control
 Function: Turns on a motor and changes speed of which the motor moves based on output from a potentiometer.
@@ -97,4 +97,4 @@ Challenges: The code was really simple because it was just a small change from t
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Motor%20Control/Motor%20Control.ino
 
-Wiring:
+Wiring: ![]()
