@@ -109,4 +109,4 @@ Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/M
 
 Wiring:
 
-![motor control fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/motorcontrolwiring.JPG)
+![motor control fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/motorcontrolwiring.JPG) 
