@@ -15,7 +15,7 @@ Challenges: I struggled with servo movement a little but fixing my math splittin
 
 Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/Hellofunctions/Hellofunctions.ino
 
-Wiring: ![]()
+Wiring: ![hellofunctionsfritzing]()
 
 ### New Ping
 Function: Uses a HC-SR04 ultrasonic sensor to do something. For my assignment I printed distance from the sensor to the serial monitor every time a button was pressed.
@@ -26,7 +26,7 @@ Challenges: The code and wiring was pretty simple, this was a rather easy assign
 
 Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/Newping/newping2.ino
 
-Wiring: ![]()
+Wiring: ![newpingfritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/newpingwiring.JPG)
 
 ## Intermediate Arduino
 These were the assignments that were split between before and after the ultrasonic robot project.
