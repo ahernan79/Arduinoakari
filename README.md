@@ -75,7 +75,7 @@ Challenges: I had some trouble getting the attach interrupt functions right beca
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/PhotoInterrupters/Photointerrupters.ino
 
-Wiring: ![]()
+Wiring: ![photointerrupters](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/photointerrupterwiring.JPG)
 
 ### Potentiometers
 Function: Changed brightness of an LED based on output from a potentiometer.
@@ -86,7 +86,7 @@ Challenges: I struggled with using the map command to make the light get dimmer 
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Potentiometers/Potentiometers.ino
 
-Wiring: ![]()
+Wiring: ![potentiometers fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/potentiowiring.JPG)
 
 ### Motor Control
 Function: Turns on a motor and changes speed of which the motor moves based on output from a potentiometer.
@@ -97,4 +97,4 @@ Challenges: The code was really simple because it was just a small change from t
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Motor%20Control/Motor%20Control.ino
 
-Wiring: ![]()
+Wiring: ![motor control fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/motorcontrolwiring.JPG)
