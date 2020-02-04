@@ -53,7 +53,7 @@ Challenges:I had some trouble getting the secondsprint correctly to the LCD scre
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/HelloLCD/HelloLCD.ino
 
-Wiring: ![]()
+Wiring: ![hellolcdfritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcd_wiring_no_backpack.JPG)
 
 ### LCD Backpack
 Function: Made the LCD functional without a lot of wiring through a breadboard, printed number of times a button was pressed to the LCD screen, and used a switch to add and subtract to that number based on the position the switch was in when the button was pressed.
@@ -64,7 +64,7 @@ Challenges: I had a lot of trouble with faulty wiring but some hard work going o
 
 Code: https://github.com/ahernan79/Arduinoakari/tree/master/IntermediateArduino/LCDBackpack
 
-Wiring: ![]()
+Wiring: ![lcdbacpackfritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcdbackpackwiring.JPG)
 
 ### Photointerrupters
 Function: Turned a LED off whenever something passed between the legs of a photointerrupter.
