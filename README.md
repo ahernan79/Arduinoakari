@@ -42,7 +42,9 @@ Challenges: I struggled a lot getting the serial monitor component to work witho
 
 Code: https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/WLED/WLED.ino
 
-Wiring: ![LED Blink Revisited](https://github.com/ahernan79/Arduinoakari/blob/master/WLED1.PNG?raw=true)
+Wiring: 
+
+![LED Blink Revisited](https://github.com/ahernan79/Arduinoakari/blob/master/WLED1.PNG?raw=true)
 
 ### Hello LCD
 Function: Printed "hello world" and the number of seconds since the program began to an LCD screen.
@@ -53,7 +55,9 @@ Challenges:I had some trouble getting the secondsprint correctly to the LCD scre
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/HelloLCD/HelloLCD.ino
 
-Wiring: ![hellolcdfritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcd_wiring_no_backpack.JPG)
+Wiring:
+
+![hellolcdfritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcd_wiring_no_backpack.JPG)
 
 ### LCD Backpack
 Function: Made the LCD functional without a lot of wiring through a breadboard, printed number of times a button was pressed to the LCD screen, and used a switch to add and subtract to that number based on the position the switch was in when the button was pressed.
@@ -64,7 +68,9 @@ Challenges: I had a lot of trouble with faulty wiring but some hard work going o
 
 Code: https://github.com/ahernan79/Arduinoakari/tree/master/IntermediateArduino/LCDBackpack
 
-Wiring: ![lcdbacpackfritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcdbackpackwiring.JPG)
+Wiring:
+
+![lcdbacpackfritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcdbackpackwiring.JPG)
 
 ### Photointerrupters
 Function: Turned a LED off whenever something passed between the legs of a photointerrupter.
@@ -75,7 +81,9 @@ Challenges: I had some trouble getting the attach interrupt functions right beca
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/PhotoInterrupters/Photointerrupters.ino
 
-Wiring: ![photointerrupters](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/photointerrupterwiring.JPG)
+Wiring: 
+
+![photointerrupters](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/photointerrupterwiring.JPG)
 
 ### Potentiometers
 Function: Changed brightness of an LED based on output from a potentiometer.
@@ -86,7 +94,9 @@ Challenges: I struggled with using the map command to make the light get dimmer 
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Potentiometers/Potentiometers.ino
 
-Wiring: ![potentiometers fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/potentiowiring.JPG)
+Wiring: 
+
+![potentiometers fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/potentiowiring.JPG)
 
 ### Motor Control
 Function: Turns on a motor and changes speed of which the motor moves based on output from a potentiometer.
@@ -97,4 +107,6 @@ Challenges: The code was really simple because it was just a small change from t
 
 Code:https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/Motor%20Control/Motor%20Control.ino
 
-Wiring: ![motor control fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/motorcontrolwiring.JPG)
+Wiring:
+
+![motor control fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/motorcontrolwiring.JPG)
