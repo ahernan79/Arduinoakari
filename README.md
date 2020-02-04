@@ -42,7 +42,7 @@ Challenges: I struggled a lot getting the serial monitor component to work witho
 
 Code: https://github.com/ahernan79/Arduinoakari/tree/master/NotSoBasicArduino/WLED
 
-Wiring:
+Wiring: ![LED Blink Revisited](https://github.com/ahernan79/Arduinoakari/blob/master/WLED1.PNG?raw=true)
 
 ### Hello LCD
 Function: Printed "hello world" and the number of seconds since the program began to an LCD screen.
