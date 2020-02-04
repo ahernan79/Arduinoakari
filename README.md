@@ -40,7 +40,7 @@ What I learned: This was one of my first Arduino assignments in this class so th
 
 Challenges: I struggled a lot getting the serial monitor component to work without a ton of code but some help from the teacher got me there.
 
-Code: https://github.com/ahernan79/Arduinoakari/tree/master/NotSoBasicArduino/WLED
+Code: https://github.com/ahernan79/Arduinoakari/blob/master/IntermediateArduino/WLED/WLED.ino
 
 Wiring: ![LED Blink Revisited](https://github.com/ahernan79/Arduinoakari/blob/master/WLED1.PNG?raw=true)
 
