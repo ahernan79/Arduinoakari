@@ -22,7 +22,7 @@ Function: Uses a HC-SR04 ultrasonic sensor to do something. For my assignment I 
 
 What I learned: I got some more practice using the ultrasonic sensor.
 
-Challenges: The code and wiring was pretty simple, this was a rather easy assignment and I didn't have much trouble.
+Challenges: The code and wiring was pretty simple, this was a rather easy assignment and I didn't have much trouble. It was my first time with a sensor so I had to learn how to get the distance returning right.
 
 Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/Newping/newping2.ino
 
