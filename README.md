@@ -15,7 +15,7 @@ Challenges: I struggled with servo movement a little but fixing my math splittin
 
 Code: https://github.com/ahernan79/Arduinoakari/blob/master/NotSoBasicArduino/Hellofunctions/Hellofunctions.ino
 
-Wiring: ![hellofunctionsfritzing]()
+Wiring: ![hellofunctionsfritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/hellofunctionswiring.JPG)
 
 ### New Ping
 Function: Uses a HC-SR04 ultrasonic sensor to do something. For my assignment I printed distance from the sensor to the serial monitor every time a button was pressed.
